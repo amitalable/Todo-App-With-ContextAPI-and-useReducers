@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Todo App created with context API and useReducer in React JS
 
 ## Available Scripts
 
